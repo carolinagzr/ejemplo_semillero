@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   
   <properties>
-  <sonar.projectKey>carolinagzr_java-tomcat-maven-example</sonar.projectKey>
+  <sonar.projectKey>assessmentDavivienda</sonar.projectKey>
   <sonar.organization>carolinagzr</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
@@ -22,7 +22,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>java-tomcat-maven-example</finalName>
+    <finalName>assessmentDavivienda</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
